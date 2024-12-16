@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Please feel free to connect: https://www.linkedin.com/in/padmaiyengar/
+Email: pmiyenga@uci.edu
 <!--
 **padma-i/padma-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
